@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UchetGogArenda.ClassBaseUD">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="UchetGogArenda.ClassBaseUD.newnamefields" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClassBaseUD.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AMAAAAEAACEIAAAAAAABIVAAAAAIAAAAQgAQAUAAAAA=</HashCode>
+      <FileName>ClassBaseUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.fabout" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>fabout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.farendator" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAQAAwAgCAAIFAAAACAAEECAAQYAgCAAEQAAAAAACA=</HashCode>
+      <FileName>farendator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.farendodatel" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAQAAwAgCAAIFAAAACAAEECAAQYAgCAAEQAAAAAACA=</HashCode>
+      <FileName>farendodatel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.fdogovor" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kCiAQApAQCgAMTERhASAAA0GSMxzAiAAwHAfCRARRAI=</HashCode>
+      <FileName>fdogovor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.fobject" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCBACAAAgCBAlTEgAACAAAEGAAsKAgoAQEABARCAQgA=</HashCode>
+      <FileName>fobject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.foplata" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8CAAQAAAASAEEBACEADYAAECBAgIAgAAQEACAQIAQAA=</HashCode>
+      <FileName>foplata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.Form1" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mT2RTj+ILCGAY523x8rXtecHAs+799nm+nQ/87tx5rA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.Form2" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAACAAEBBBAADAACACABAY4gAAAGABgQAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.FormChangeParol" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAACAABBAAAAGAAQBCAAAYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>FormChangeParol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.FormSpr" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAACACAAAACAAAYAkAABmAAAAoAAgA=</HashCode>
+      <FileName>FormSpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.fsotrudnik" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aRBAAAAAACwAABACAAigAAQCAAA4AAgAAGgAAREAABg=</HashCode>
+      <FileName>fsotrudnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.LoginForm" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAACAAABAABACAAgADAAAIAAACkEAAAQQAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.Program" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAFAEQAAACAAAAIAAABAA0AAAAAABAAgAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.Properties.Resources" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UchetGogArenda.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.25" />
+</ClassDiagram>

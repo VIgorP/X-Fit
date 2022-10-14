@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FitnessClub.ClassBaseRC">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AMgAAUAAAAEQCAAABABJITAACAAAUBAAAwAQgUBABQA=</HashCode>
+      <FileName>ClassBaseRC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.fabout" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>fabout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.foplata" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sCAAAABAACAEEBACEADQAAECBAgAAgAAQEAAAAAFQAA=</HashCode>
+      <FileName>foplata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.Form1" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>u3/1R3/ZLmHgW523pP//+X/3Gs9/9/vv9n4/8/91/rY=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.FormChangeParol" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAACAABBAAAAGAAQBCAAAYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>FormChangeParol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.FormSpr" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAACACAAAACAAAYAkAABmAAAAoAAgA=</HashCode>
+      <FileName>FormSpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.formsprcase" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFQAAIAAACAAABBhAAjAAGQCAFA44gAAAHAJAQIAAAA=</HashCode>
+      <FileName>formsprcase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.fpostavshik" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wAQAQQAACAQAJAAAACAAGECAAAYAgAAAEQAAAAAACA=</HashCode>
+      <FileName>fpostavshik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.fperiod" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAgCAAEBAAAACACAECIAgKAwAAQGARAQAAAAA=</HashCode>
+      <FileName>fperiod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.fsotrudnik" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aRBAAAAAACwAABACAAigAAUCAAA4AAgAAGgAAREAABg=</HashCode>
+      <FileName>fsotrudnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.ftovar" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAIEAIAgCQAEDQgBACACIECAAkaAgAAQGABAQIAQAU=</HashCode>
+      <FileName>ftovar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.fzakaz" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yHEClqBgSAAFhQTBaCRAJkDAN17liAkwvkfTRk/TDA=</HashCode>
+      <FileName>fzakaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.fzakazchik" Collapsed="true">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>pwAABACAgCgIAhAAAAKAAAECAAAYAgAAAEAAAAAAACA=</HashCode>
+      <FileName>fzakazchiks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.GridDecorator" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.LoginForm" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAABACAAgADAAAIAAACkEAAAAQAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.Program" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAEAAAAAAAAAIAAABAAgAAAAAABAAgAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.Properties.Resources" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessClub.Properties.Settings" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

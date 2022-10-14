@@ -1,0 +1,49 @@
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\bin\Debug\RemComp.exe.config
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.csproj.ResolveComReference.cache
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\bin\Debug\RemComp.exe
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\bin\Debug\RemComp.pdb
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fabout.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fzakaz.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.ftovar.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.foplata.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.Form1.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.formsprcase.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.FormChangeParol.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.FormSpr.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fsotrudnik.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.LoginForm.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.Properties.Resources.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.csproj.GenerateResource.Cache
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.exe
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.pdb
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fpostavshik.resources
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fzakazchik.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\bin\Debug\RemComp.exe.config
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.csproj.ResolveComReference.cache
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.exe
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.pdb
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\bin\Debug\RemComp.exe
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\bin\Debug\RemComp.pdb
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fabout.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fzakaz.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.ftovar.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.foplata.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.Form1.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.formsprcase.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.FormChangeParol.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.FormSpr.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fsotrudnik.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fzakazchik.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.LoginForm.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.Properties.Resources.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.fpostavshik.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.csproj.GenerateResource.Cache
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.csprojResolveAssemblyReference.cache
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.csprojResolveAssemblyReference.cache
+d:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.frabota.resources
+h:\1_ko\autor24\20190330_Диплом_C#_access ремонт компьютеров Левак\1_itog\RemComp\RemComp\obj\x86\Debug\RemComp.frabota.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\RemComp\bin\Debug\RemComp.exe.config
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\RemComp\obj\x86\Debug\RemComp.csproj.ResolveComReference.cache
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\RemComp\obj\x86\Debug\RemComp.exe
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\RemComp\obj\x86\Debug\RemComp.pdb
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\RemComp\bin\Debug\FitnessClub.exe.config

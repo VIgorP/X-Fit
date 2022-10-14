@@ -1,0 +1,92 @@
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe.config
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.ResolveComReference.cache
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.pdb
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabout.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fgrupp.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fnapr.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fobject.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fperiod.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabonement.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fraspisanie.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Form1.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.formsprcase.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormChangeParol.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormSpr.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fsotrudnik.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fklient.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.LoginForm.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Properties.Resources.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fvidabonementa.resources
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.GenerateResource.Cache
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.exe
+d:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.pdb
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe.config
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.ResolveComReference.cache
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.exe
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.pdb
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.pdb
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabout.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fgrupp.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fnapr.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fobject.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fperiod.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabonement.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fraspisanie.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Form1.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.formsprcase.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormChangeParol.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormSpr.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fsotrudnik.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fklient.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.LoginForm.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Properties.Resources.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fvidabonementa.resources
+h:\1_ko\autor24\20190422_Диплом_C#_Access_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.GenerateResource.Cache
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe.config
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.ResolveComReference.cache
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.exe
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.pdb
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.pdb
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabout.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fgrupp.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fnapr.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fobject.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fperiod.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabonement.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fraspisanie.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Form1.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.formsprcase.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormChangeParol.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormSpr.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fsotrudnik.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fklient.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.LoginForm.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Properties.Resources.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fvidabonementa.resources
+d:\1_ko\autor24\20210430_Диплом_C#_Ms sql_Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.GenerateResource.Cache
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe.config
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.ResolveComReference.cache
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.exe
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.pdb
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.exe
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\bin\Release\FitnessClub.pdb
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabout.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fgrupp.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fnapr.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fobject.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fperiod.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fabonement.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fraspisanie.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Form1.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.formsprcase.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormChangeParol.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.FormSpr.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fsotrudnik.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fklient.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.LoginForm.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.Properties.Resources.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.fvidabonementa.resources
+d:\1_ko\autor24\20210510_Диплом_C# access Фитнес\1_itog\FitnessClub\FitnessClub\obj\x86\Release\FitnessClub.csproj.GenerateResource.Cache
